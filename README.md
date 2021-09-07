@@ -1,2 +1,2 @@
-# ml_nlp_pipeline
+# Machine Learning Pipeline
 Corporate Messages Classifier
